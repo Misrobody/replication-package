@@ -107,11 +107,19 @@ ll /tmp/kieker*
 cp -r /tmp/kieker* ./bin/
 ```
 
-## Running the pipeline
+### Running the pipeline
 
 Now, run the pipeline.
 
 ```
 ./scripts/combined-model.sh bin/kieker* bin/uxsim-static combined-uxsim
 ```
+
+## Further examples
+
+Examples of the dynamic analysis process:
+- https://github.com/kieker-monitoring/OtktDSL
+- https://github.com/Misrobody/OtktDSL-examples
+- https://github.com/Misrobody/OtktSurvey
+
 
