@@ -1,4 +1,4 @@
-# static and dynamic analysis of python software replication-package
+# Static and Dynamic analysis of Python Software replication-package
 
 This repository has submodules. Clone it with:
 ```
@@ -6,7 +6,7 @@ git clone --recurse-submodules <url>
 ```
 
 This is the replication package for the following paper:
-Static and Dynamic Analysis of Python Software
+Static and Dynamic Analysis of Python Software.
 
 ## Authors
 
